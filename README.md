@@ -45,5 +45,3 @@ This project demonstrates data cleaning using MySQL SQL scripts. The source data
 - https://github.com/nmdattt
 
 ---
-
-**README tiếng Việt có ở phía trên.**
