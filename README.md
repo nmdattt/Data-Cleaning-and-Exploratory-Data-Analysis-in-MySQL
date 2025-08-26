@@ -15,8 +15,7 @@ This project demonstrates data cleaning and exploratory data analysis (EDA) usin
 │   └── exploratory_data_analysis.sql
 ├── docs/
 │   └── import_guide.md
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 - **raw_data/**: Contains the original, unprocessed dataset.
